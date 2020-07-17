@@ -1,4 +1,5 @@
-# Earth Science Data Analysis Snippets
+# Timeseries Data Analysis Snippets 
+## For timestamped earth science data
 
 ### 1. DateTimeFormatInDepth.ipynb
 
