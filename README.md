@@ -1,6 +1,8 @@
 # Timeseries Data Analysis Snippets 
 ## For timestamped earth science data
 
-### 1. DateTimeFormatInDepth.ipynb
+### 1. DateTimeFormatInDepth - Part 1.ipynb
 
-Imported the data of flood occurances of at Boulder, Colorado, USA from earthpy dataset. The data represents the precipitation and weather data of that area from 2003-2013. Later this notebook explores options like `parse_csv()`, `na_values()`, `index_col()` and later it presents some functions from matplotlib to display scatter plot. Then resampled the data on their `datetime` indices and plotted them.
+Imported the data of flood occurances of at Boulder, Colorado, USA from earthpy dataset. The data represents the precipitation and weather data of that area from 2003-2013. Later this notebook explores options like `parse_csv()`, `na_values()`, `index_col()` and later it presents some functions from matplotlib to display scatter plot. Then resampled the data on their `datetime` indices and plotted them. Atlast, I tried to subset the data in a particular date range and used **matplotlib.DateFormatter** to format the date labels on x-axis of the plot. 
+
+### 1. DateTimeFormatInDepth - Part 2.ipynb
